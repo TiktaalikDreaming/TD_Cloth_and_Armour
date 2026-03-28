@@ -1,18 +1,18 @@
 {
 	"name": "TD_Cloth_and_Armour",
 	"description": "A collection of clothing, armour, warpaints and miscellaneous cosmetic items\n[list]\n[*]Includes bandage pieces as armour and accessory as needed.  \n[*]A few warpaints.  (I take requests, and most of these are past requests)\n[*]A set of full plate harness based on 16th Century continental styles.\n[*]Some miscellaneous items like hats, skirts, etc will appear.  Including some lace conversions of base game silk.  Jewelry and piercings are mostly requested items.  Some of these are inserted into NPC equipment tables.  Sorry not sorry.\n[/list]\n \n\nDiscord https://discord.gg/h45bTeqNRs\n\nThanks to Tuka and Slug for various assets, and to various people who have provided inspiration.  Thanks to Whiskey and Totchinuko for having APIs to use their accessory systems.  Also, heaps of thanks to all those who have helped out over the (checks notes, damn) years.  Mostly from the modding community. Bain has directed me towards solutions more often than he realizes. Xevyr I swear does most of everyone's coding.  But that might just be the view of coding that needs help.  It's still welcome and an impressive body of work.  And many others.  And especially Juvilia for help with the &^&#$%$ing APEX thing.\n\nAccessories based on Whiskey's accessory system, big thanks to Whiskey for creating it, and letting others use it.  Accessory mod here https://steamcommunity.com/sharedfiles/filedetails/?id=2098700751\nWhiskey's Discord https://discord.gg/tAJZAjq\n\nSimilarly, the ribbons, nipples, etc are intended for use with ToT! Custom or similar mods.  They won't on their own be useful.  See https://steamcommunity.com/sharedfiles/filedetails/?id=2886779102\n\nAlso incorporates the Devious Desires Accessory API (which in turn depends on Whiskey's) to not conflict with their slots and possible (WIP) use some restraint tags for stump bandages.  See https://steamcommunity.com/sharedfiles/filedetails/?id=2300463941 for that mod, although it is not needed to be compatible, but will add immersion if I can get stump restraint working.\n\nOn mod load order.  To make this able to use ToT!Custom better, it uses the API.  As far as I know, the order vs ToT Custom shouldn't matter.  With the Accesory wardrobe API, the game will use the API from the lowest/latest loading mod.  If you know which API version each has, then the latest API version last.\n\nOphirian Plate Harness is (C) Countermarch on Fab Store.  Modifications to fit the Conan body are mine.  It did look a lot better fitting a human physique. \n",
-	"changeNote": "Fix up unlinked icon layers and bucket helm's blueprint, removed a bunch of table items that shouldn't have been there and didn't have supporting assets",
+	"changeNote": "Adding 3 new Khitan sword skins.  Liao Dynasty one and two handed Dao, and a Ming Dynasty Jian (probably one of the most classic styles of Jian). Scabbards for the 1 handers added as well",
 	"author": "Tiktaalik Dreaming Industries",
 	"authorUrl": "",
 	"versionMajor": 1,
 	"versionMinor": 0,
-	"versionBuild": 2510090,
+	"versionBuild": 2512310,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "3569083813",
 	"steamTestLivePublishedFileId": "",
 	"steamVisibility": 0,
 	"folderName": "TD_Cloth_and_Armour",
-	"revisionNumber": 1674656,
-	"snapshotId": 44402,
+	"revisionNumber": 1755779,
+	"snapshotId": 44630,
 	"fileSize": 345336000
 }
